@@ -1,8 +1,8 @@
 # Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-TUntuk Mengakses halaman admin, add url /admin. Example http://localhost/rental_eria/admin
-Atau dengan membuka memilih "Admin Login" pada bagian bawah halaman dashboard
+Untuk Mengakses halaman dashboard,dapat diakses melalui url berikut : https://easycar.infinityfreeapp.com
+Untuk membuka halaman admin dapat diakses melalui footer pada bagian bawah halaman dashboard "Admin Login".
 
 ## Tampilan Aplikasi
 ![image](https://github.com/Ardiant42/Startup-Digital/assets/108515162/970077b4-175e-48f9-be09-a4f1502479e9)
@@ -15,6 +15,8 @@ Atau dengan membuka memilih "Admin Login" pada bagian bawah halaman dashboard
 |:---------:|:--------------------:|---------:|
 | Admin     |  admin               | admin    |
 | User      |  luluxs42@gmail.com  | 1234     |
+
+Atau dapat membuat akun User baru dengan membuka form register
 
 ## Sistem Requirement
 - Database MySQL
